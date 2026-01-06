@@ -1,0 +1,15 @@
+/workspaces/csharp-practice/bin/Debug/net10.0/csharp-practice
+/workspaces/csharp-practice/bin/Debug/net10.0/csharp-practice.deps.json
+/workspaces/csharp-practice/bin/Debug/net10.0/csharp-practice.runtimeconfig.json
+/workspaces/csharp-practice/bin/Debug/net10.0/csharp-practice.dll
+/workspaces/csharp-practice/bin/Debug/net10.0/csharp-practice.pdb
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.AssemblyInfoInputs.cache
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.AssemblyInfo.cs
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.csproj.CoreCompileInputs.cache
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.sourcelink.json
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.dll
+/workspaces/csharp-practice/obj/Debug/net10.0/refint/csharp-practice.dll
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.pdb
+/workspaces/csharp-practice/obj/Debug/net10.0/csharp-practice.genruntimeconfig.cache
+/workspaces/csharp-practice/obj/Debug/net10.0/ref/csharp-practice.dll
